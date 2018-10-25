@@ -1,6 +1,7 @@
 # Haskell
 
 all comments are found
+Refer to First Year repo for full code
 http://ugweb.cas.mcmaster.ca/~mudarthc/
 
 ## Citing
