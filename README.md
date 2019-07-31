@@ -1,24 +1,8 @@
 # Haskell
 
-all comments are found
-Refer to First Year repo for full code
-http://ugweb.cas.mcmaster.ca/~mudarthc/
-
-## Citing
-
-my calc library was created with references including:
-```
-Curtis' code 
-```
-
-### Extra Parts
-
-1. derivatives 
-3. trig funtions and other useful function eg.. Subtract, to the power of ...
-2. integrals
-3. surface area of revolution about y
-4. surface area of revolution about x
-
+# Overview 
+* I created a math library to help with my Calc homework
+* It can calculate many Calc expressions 
 
 # Challenges 
 The main chalenges where implementing extra features into the Haskell math library. 
